@@ -10,10 +10,10 @@ url: http://proceedings.mlr.press
 sections:
 - name: Preface
   title: Preface
-- name: Contributed Papers
-  title: Contributed Papers
 - name: Keynotes
   title: Keynotes
+- name: Contributed Papers
+  title: Contributed Papers
 published: 2018-01-21
 layout: proceedings
 series: Proceedings of Machine Learning Research
