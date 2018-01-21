@@ -1,0 +1,69 @@
+---
+year: '2018'
+booktitle: Proceedings of the 1st Conference on Fairness, Accountability and Transparency
+shortname: FAT*
+volume: 81
+start: 2018-02-23
+end: 2018-02-24
+conference_number: '1'
+url: http://proceedings.mlr.press
+sections:
+- name: Preface
+  title: Preface
+- name: Contributed Papers
+  title: Contributed Papers
+- name: Keynotes
+  title: Keynotes
+published: 2018-01-21
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: FAT-2018
+month: 0
+cycles: false
+editor:
+- given: Sorelle A.
+  family: Friedler
+- given: Christo
+  family: Wilson
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 1st Conference on Fairness, Accountability and Transparency
+    Held in New York, NY, USA on 23-24 February 2018
+
+  Published as Volume 81 by the Proceedings of Machine Learning Research on 21 January 2018.
+
+  Volume Edited by:
+    Sorelle A. Friedler
+    Christo Wilson
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 23--24 Feb
+baseurl: "/v81"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v81
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Conference on Fairness, Accountability and Transparency
+  url: 
+  location: New York, NY, USA
+  dates:
+  - 2018-02-23
+  - 2018-02-24
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/mreid/mlresearch/v81/fat18.bib
