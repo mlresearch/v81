@@ -7,6 +7,8 @@ start: 2018-02-23
 end: 2018-02-24
 conference_number: '1'
 url: http://proceedings.mlr.press
+author:
+  name: PMLR
 sections:
 - name: Preface
   title: Preface
