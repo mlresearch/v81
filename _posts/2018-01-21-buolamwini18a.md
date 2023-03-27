@@ -40,7 +40,9 @@ container-title: Proceedings of the 1st Conference on Fairness, Accountability a
 volume: '81'
 genre: inproceedings
 issued:
-  date-parts:
+  date-parts:[buolamwini18.pdf](https://github.com/mlresearch/v81/files/11081432/buolamwini18.pdf)
+[buolamwini18-supp.pdf](https://github.com/mlresearch/v81/files/11081434/buolamwini18-supp.pdf)
+
   - 2018
   - 1
   - 21
